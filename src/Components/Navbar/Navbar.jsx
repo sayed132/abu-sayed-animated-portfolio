@@ -14,6 +14,7 @@ const Navbar = () => {
                     <a href=""><img src="/youtube.png" alt="" /></a>
                     <a href=""><img src="/telegram.png" alt="" /></a>
 
+
                 </div>
             </div>
         </div>
